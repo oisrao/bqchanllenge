@@ -1,3 +1,2 @@
 # bqchanllenge
-bq Challenge Repository
-My first repository
+bq Challenge Repository (My first repository)
