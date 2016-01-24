@@ -1,0 +1,11 @@
+.disabled {
+	pointer-events: none;
+    opacity: 0.4;
+}
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
